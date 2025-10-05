@@ -81,7 +81,6 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 ## Apps
 
 #### AI & Automation
-
 - [Alby MCP Server](https://github.com/getAlby/mcp/) - Connect your wallet to your AI agent
 - [AskExperts](https://proxy.askexperts.io/) - Create AI experts, discover them, ask them questions privately and pay for the answers using the lightning network
 - [dataMachine](https://datamachine.ai/) - Chat interface to open-source LLM models, file support and DVMs
