@@ -102,6 +102,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
  - [Swapido](https://www.swapido.com/) - Mexican bitcoin exchange with NWC integration 
 
 #### Finance, Accounting & Payment Tools
+
  - [BitcoinLink](https://www.bitcoinlink.app/) - Create URL vouchers to send sats from your wallet
  - [Cashu Redeem](https://redeem.cashu.me/) - Redeem cashu tokens to your NWC wallet
  - [Clams](https://clams.tech/) - Dedicated accounting platform for your wallet
@@ -129,6 +130,7 @@ The following apps are NWC wallet services with access to the APIs of the wallet
 - [YakiHonne](https://yakihonne.com/) - A well-designed decentralized long-form content media platform
 
 #### Merchant & Buisness Tools
+ - [BLFS](https://github.com/MegalithicBTC/BLFS) - Bitcoin Lightning For Shopify
  - [BTCPay Server](https://docs.btcpayserver.org/Nostr/) - Open-source payment processor
  - [BuzzPay PoS](https://github.com/getAlby/pos) - Super simple self-custodial PoS
  - [Flash](https://paywithflash.com/) - Instant & multi-feature lightning payment gateway
